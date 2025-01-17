@@ -1,3 +1,1 @@
-portainer/portainer
-weejewel/wg-easy:7-nightly
-jeessy/ddns-go
+jlesage/nginx-proxy-manager
